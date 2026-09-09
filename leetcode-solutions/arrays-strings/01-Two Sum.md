@@ -1,5 +1,5 @@
 ## Problem: Two Sum (Easy)
-Link:https://leetcode.com/problems/two-sum/
+Link:https://leetcode.com/problems/two-sum/submissions/2136056164/
 
 ### Approach
 I used a brute-force approach with two nested loops to check every possible pair of numbers in the array. If the sum of the current pair equals the target, their indices are stored and returned.

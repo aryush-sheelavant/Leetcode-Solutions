@@ -1,5 +1,5 @@
 ## Problem: Valid Anagram (Easy)
-**Link:** https://leetcode.com/problems/valid-anagram/
+**Link:** https://leetcode.com/problems/valid-anagram/submissions/2136055714/
 
 ### Approach
 I used a frequency counting approach with a fixed-size array of 26 integers to represent the lowercase English alphabet. I iterated through both strings simultaneously, incrementing the count for characters in the first string and decrementing for the second. A final pass checks if all counts returned to zero.

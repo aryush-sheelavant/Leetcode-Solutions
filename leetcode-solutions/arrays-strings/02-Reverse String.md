@@ -1,5 +1,5 @@
 ## Problem: Reverse String (Easy)
-**Link:** https://leetcode.com/problems/reverse-string/
+**Link:** https://leetcode.com/problems/reverse-string/submissions/2136056952/
 
 ### Approach
 I used a two-pointer approach. I initialized a `left` pointer at the start of the array and a `right` pointer at the end. In a loop, I swapped the characters at these indices and moved the pointers toward the middle until they crossed.
