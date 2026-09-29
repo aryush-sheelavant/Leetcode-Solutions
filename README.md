@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0507-perfect-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
