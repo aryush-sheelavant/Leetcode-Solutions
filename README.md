@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
