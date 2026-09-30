@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
