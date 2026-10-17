@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
