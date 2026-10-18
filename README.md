@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Math
