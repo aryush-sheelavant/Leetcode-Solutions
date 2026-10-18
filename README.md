@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2396-strictly-palindromic-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [2396-strictly-palindromic-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/aryush-sheelavant/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
